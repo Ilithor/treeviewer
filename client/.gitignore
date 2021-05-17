@@ -22,6 +22,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-src/components/*
-!src/components/LineChart
 src/App.complete.js
+src/components/Hierarchy/Hierarchy.complete.js
+src/components/Hierarchy/Hierarchy.css
