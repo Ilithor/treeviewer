@@ -13,6 +13,12 @@ body {
 .hierarchy {
   background-color: #eee;
   width: 250px;
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  margin: 5px 0;
 }
 
 .main {
